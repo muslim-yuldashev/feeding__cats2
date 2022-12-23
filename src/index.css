@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Group_of_cats_circle_around_catfood.jpg");
+  background-color: #ccc;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  height: 1000px;
+  max-height: 100%;
+}
